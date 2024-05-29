@@ -9,7 +9,7 @@
     </style>
 
     <!-- Background Rect -->
-    <rect width="970" height="530" fill="#161b22" rx="15"/>
+    <rect width="1600" height="900" fill="#161b22" rx="15"/>
 
     <!-- ASCII Art -->
     <text x="15" y="30" fill="#c9d1d9" class="ascii">
