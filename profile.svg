@@ -1,4 +1,4 @@
-<svg width="800px" height="1500px"  xmlns="http://www.w3.org/2000/svg">
+<svg width="1000px" height="1500px"  xmlns="http://www.w3.org/2000/svg">
  
 
     <style>
@@ -11,7 +11,7 @@
     </style>
 
     <!-- Background Rect -->
-    <rect width="800" height="1500" fill="#161b22" rx="15"/>
+    <rect width="1000" height="1500" fill="#161b22" rx="15"/>
 
 
     <!-- Comments -->
@@ -20,7 +20,8 @@
 </text>
 
 <text x="370" y="30" fill="#c9d1d9" font-size="20">
-<tspan x="30" y="70">Sathvika</tspan>
+<tspan x="30" y="40" font-size="22">Sathvika</tspan>
+<tspan x="30" y="65" font-style="italic" font-size="16">Just another inquisitive aerospace undergrad</tspan>
 <tspan x="30" y="90">——————</tspan>
 <tspan x="30" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years</tspan>
 <tspan x="30" y="130" class="keyColor">Course</tspan>: <tspan class="valueColor">Aerospace Engineering</tspan><tspan class="commentColor"></tspan>
