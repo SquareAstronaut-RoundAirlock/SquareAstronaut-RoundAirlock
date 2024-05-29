@@ -1,4 +1,6 @@
-<svg width="800px" height="1500px">
+<svg width="800px" height="1500px"  xmlns="http://www.w3.org/2000/svg">
+ 
+
     <style>
         .keyColor { fill: #ffa657; }
         .valueColor { fill: #a5d6ff; }
