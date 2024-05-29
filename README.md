@@ -1,7 +1,7 @@
 
 
-## Hi, I'm Sathvika 👋
+## Hi there 👋
 
-I'm an inquisitive undergraduate aerospace student who loves to experiment. Exploring avenues, I have worked on projects in CFD, Model rocketry, CAD Designing and Computer Vision. I am currently learning about Orbital Mechanics with Python. 
+I'm an inquisitive aerospace undergrad who loves to experiment
 
-![Profile SVG](./profile.svg)
+![Profile Image](https://github.com/SquareAstronaut-RoundAirlock/SquareAstronaut-RoundAirlock/blob/3ddab6a5ed433d9a8a301409d137d31bec0ecf3a/profile.svg)
