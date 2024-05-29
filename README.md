@@ -1,6 +1,20 @@
+
+
 ## Hi, I'm Sathvika 👋
 
 I'm an inquisitive undergraduate aerospace student who loves to experiment. Exploring avenues, I have worked on projects in CFD, Model rocketry, CAD Designing and Computer Vision. I am currently learning about Orbital Mechanics with Python. 
+
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">Sathvika</tspan>
@@ -18,7 +32,7 @@ I'm an inquisitive undergraduate aerospace student who loves to experiment. Expl
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
 </text>
-
+</svg>
 <!--
 **SquareAstronaut-RoundAirlock/SquareAstronaut-RoundAirlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
